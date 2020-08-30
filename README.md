@@ -9,7 +9,7 @@ to eliminate boilerplate code and promote best practices.
 FirebaseUI Auth provides a drop-in auth solution that handles the UI flows for
 signing in users with email addresses and passwords, phone numbers, Identity
 Provider Sign In including Google, Facebook, GitHub, Twitter, Apple, Microsoft,
-Yahoo, [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) providers and SAML(https://www.varonis.com/blog/what-is-saml/#:~:text=A%20SAML%20provider%20is%20a,grant%20authorization%20to%20the%20user.) providers. It is built on top of
+Yahoo, [OpenID Connect (OIDC)](https://en.wikipedia.org/wiki/OpenID_Connect) providers and [SAML](https://www.varonis.com/blog/what-is-saml/#:~:text=A%20SAML%20provider%20is%20a,grant%20authorization%20to%20the%20user.) providers. It is built on top of
 [Firebase Auth](https://firebase.google.com/docs/auth).
 
 The FirebaseUI component implements best practices for authentication on mobile
