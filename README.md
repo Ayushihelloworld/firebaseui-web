@@ -194,6 +194,7 @@ for a more in-depth example, showcasing a Single Page Application mode.
     <!-- *******************************************************************************************
        * TODO(DEVELOPER): Paste the initialization snippet from:
        * Firebase Console > Overview > Add Firebase to your web app. *
+        Here we have used the first option mentioned above to install the firebase-ui, that is using CDN. 
        ***************************************************************************************** -->
     <script src="https://www.gstatic.com/firebasejs/ui/4.6.1/firebase-ui-auth.js"></script>
     <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.6.1/firebase-ui-auth.css" />
